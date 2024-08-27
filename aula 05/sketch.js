@@ -1,6 +1,6 @@
 //Projeto de Desenvolvimento de Sistemas
 //Aula de P.O.O e Encapsulamento
-//Jonathan Paiva
+//Francisco Gabriel
 
 //Objetivos:
 //01 - Criar a classe NAVE
