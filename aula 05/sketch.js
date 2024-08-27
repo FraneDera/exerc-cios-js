@@ -1,6 +1,6 @@
 //Projeto de Desenvolvimento de Sistemas
 //Aula de POO  e Encapsulamento
-//Demetrio Torgan
+//Francisco Gabriel
 
 //Objetivos:
 //1- Criar a classe Nave
